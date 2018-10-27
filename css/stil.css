@@ -1,0 +1,8 @@
+#hizalama{
+
+	background-color: #fb8176;       
+    position: fixed;  /* yerini sabitleme kodu */ 
+    bottom: 0;  /* En alta hizalama kodu*/
+    width: 100%; /* ekran ne kadar büyükse o kadar büyük olması için gerekli kod */ 
+  }
+  
